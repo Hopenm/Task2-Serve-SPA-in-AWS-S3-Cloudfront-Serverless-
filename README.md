@@ -1,1 +1,0 @@
-# Task2-Serve-SPA-in-AWS-S3-Cloudfront-Serverless-
