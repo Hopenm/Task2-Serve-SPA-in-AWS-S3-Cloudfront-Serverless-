@@ -1,2 +1,2 @@
-S3 bucket: 
-Cloudfront: http://shop-app-books.s3-website-eu-west-1.amazonaws.com/
+S3 bucket: http://bookshop2.s3-website-eu-west-1.amazonaws.com/
+
